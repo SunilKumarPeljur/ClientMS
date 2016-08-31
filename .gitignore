@@ -47,8 +47,8 @@ Temporary Items
 .apdisk
 
 
-.mvn
-.settings
+.mvn/*
+.settings/*
 .classpath
 .project
-target
+target/*
